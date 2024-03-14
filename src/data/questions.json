@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answerOptions": [
+      {
+        "text": "Saturn",
+        "isCorrect": false
+      },
+      {
+        "text": "Jupiter",
+        "isCorrect": true
+      },
+      {
+        "text": "Mars",
+        "isCorrect": false
+      },
+      {
+        "text": "Neptune",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the capital of France?",
+    "answerOptions": [
+      {
+        "text": "Berlin",
+        "isCorrect": false
+      },
+      {
+        "text": "London",
+        "isCorrect": false
+      },
+      {
+        "text": "Paris",
+        "isCorrect": true
+      },
+      {
+        "text": "Rome",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answerOptions": [
+      {
+        "text": "William Shakespeare",
+        "isCorrect": true
+      },
+      {
+        "text": "Jane Austen",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles Dickens",
+        "isCorrect": false
+      },
+      {
+        "text": "Mark Twain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answerOptions": [
+      {
+        "text": "Wa",
+        "isCorrect": false
+      },
+      {
+        "text": "H2O",
+        "isCorrect": true
+      },
+      {
+        "text": "O2H",
+        "isCorrect": false
+      },
+      {
+        "text": "HO",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "answerOptions": [
+      {
+        "text": "1910",
+        "isCorrect": false
+      },
+      {
+        "text": "1912",
+        "isCorrect": true
+      },
+      {
+        "text": "1915",
+        "isCorrect": false
+      },
+      {
+        "text": "1917",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      {
+        "text": "Vincent van Gogh",
+        "isCorrect": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "isCorrect": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "isCorrect": true
+      },
+      {
+        "text": "Michelangelo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answerOptions": [
+      {
+        "text": "G",
+        "isCorrect": false
+      },
+      {
+        "text": "Au",
+        "isCorrect": true
+      },
+      {
+        "text": "Ag",
+        "isCorrect": false
+      },
+      {
+        "text": "AuO",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answerOptions": [
+      {
+        "text": "Beijing",
+        "isCorrect": false
+      },
+      {
+        "text": "Tokyo",
+        "isCorrect": true
+      },
+      {
+        "text": "Seoul",
+        "isCorrect": false
+      },
+      {
+        "text": "Shanghai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answerOptions": [
+      {
+        "text": "Harper Lee",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Hemingway",
+        "isCorrect": false
+      },
+      {
+        "text": "F. Scott Fitzgerald",
+        "isCorrect": false
+      },
+      {
+        "text": "J.D. Salinger",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      {
+        "text": "Mount Kilimanjaro",
+        "isCorrect": false
+      },
+      {
+        "text": "Mount Everest",
+        "isCorrect": true
+      },
+      {
+        "text": "Mount Fuji",
+        "isCorrect": false
+      },
+      {
+        "text": "Mount McKinley",
+        "isCorrect": false
+      }
+    ]
+  }
+]
