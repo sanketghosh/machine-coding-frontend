@@ -18,6 +18,10 @@ export default function Home() {
       name: "async tags forms",
       href: "/async-tags-forms",
     },
+    {
+      name: "Travel form",
+      href: "/travel-form",
+    },
   ];
 
   return (

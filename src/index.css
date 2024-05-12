@@ -6,6 +6,6 @@
 
 @layer base {
   html {
-    @apply font-poppins bg-zinc-950 text-white;
+    @apply bg-zinc-900 font-poppins text-white;
   }
 }
